@@ -1,5 +1,5 @@
 ## lovecalculator
-## This is Fun flutter UI which find love between you and your partner.
+## This is a Fun flutter UI which is used to find love between you and your partner.
 
 A new Flutter project.
 
